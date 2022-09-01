@@ -14,16 +14,16 @@ export default function Topbar() {
 
           <a href="index.html" class="logo d-flex align-items-center">
 
-            <img src="assets/img/logo.png" alt="" />
+            {/* <img src="assets/img/logo.png" alt="" /> */}
             <h1>Company Name<span>.</span></h1>
           </a>
 
-          <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+          <i class="mobile-nav-toggle mobile-nav-show bi bi-list" ></i>
           <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
           <nav id="navbar" class="navbar">
             <ul>
-              <li><a href="index.html" class="active">Home</a></li>
-              <li><a href="about.html">About</a></li>
+              <li ><a href="index.html" class="active ">Home</a></li>
+              <li><a href="about.html" >About</a></li>
               <li><a href="services.html">Services</a></li>
               <li><a href="projects.html">Projects</a></li>
               <li><a href="blog.html">Blog</a></li>

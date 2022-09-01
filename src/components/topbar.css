@@ -58,7 +58,7 @@ body {
   @media (min-width: 1280px) {
     .navbar {
       padding: 0;
-      box-shadow: 0 0px 0px 0 rgba(255, 0, 0, 0),0 0px 0px rgba(0, 0, 0, 0);
+      box-shadow: 0 0px 0px 0 rgba(255, 0, 0, 0),0 0px 0px rgba(0, 0, 0, 0) !important;
     }
   
     .navbar ul {

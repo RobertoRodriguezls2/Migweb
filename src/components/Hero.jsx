@@ -16,8 +16,8 @@ export default function Hero() {
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-6 text-center">
-        <h2 data-aos="fade-down">Welcome to <span>Company name</span></h2>
-        <p data-aos="fade-up">Welcome message.</p>
+        <h2 data-aos="fade-down" >Welcome to <span>Company name</span></h2>
+        <p data-aos="fade-up" >Welcome message.</p>
         <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Get Started</a>
       </div>
     </div>
