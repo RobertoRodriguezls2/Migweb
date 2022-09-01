@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Migweb/static/css/main.c4d11033.css",
+    "main.js": "/Migweb/static/js/main.bf4ab984.js",
+    "static/js/787.3e47de0d.chunk.js": "/Migweb/static/js/787.3e47de0d.chunk.js",
+    "static/media/construction-2.jpg": "/Migweb/static/media/construction-2.396b6f614b42a374e855.jpg",
+    "static/media/hero-carousel-1.jpg": "/Migweb/static/media/hero-carousel-1.9e5032971f7ec5e4ac56.jpg",
+    "static/media/hero-carousel-2.jpg": "/Migweb/static/media/hero-carousel-2.8b805addaa594f21a8e8.jpg",
+    "static/media/constructions-4.jpg": "/Migweb/static/media/constructions-4.8f1c6a722cd0d9f80989.jpg",
+    "static/media/hero-carousel-5.jpg": "/Migweb/static/media/hero-carousel-5.62fe6c0bca22bfb6a73e.jpg",
+    "static/media/hero-carousel-4.jpg": "/Migweb/static/media/hero-carousel-4.2c6c9b5e2e3bb55a137e.jpg",
+    "static/media/constructions-3.jpg": "/Migweb/static/media/constructions-3.274e362989bcf5dd479c.jpg",
+    "static/media/constructions-1.jpg": "/Migweb/static/media/constructions-1.4026b6531745838ab80b.jpg",
+    "static/media/construction-3.jpg": "/Migweb/static/media/construction-3.af53a2e0e6209fccab1b.jpg",
+    "static/media/remodeling-3.jpg": "/Migweb/static/media/remodeling-3.fecbb77f3e1a09def5d1.jpg",
+    "static/media/construction-1.jpg": "/Migweb/static/media/construction-1.1874ff49446ee53298f2.jpg",
+    "static/media/constructions-2.jpg": "/Migweb/static/media/constructions-2.c067133d4d9ef8489573.jpg",
+    "static/media/hero-carousel-3.jpg": "/Migweb/static/media/hero-carousel-3.359369d77930e809a4b3.jpg",
+    "static/media/repairs-1.jpg": "/Migweb/static/media/repairs-1.3e514887fab76510506f.jpg",
+    "static/media/design-2.jpg": "/Migweb/static/media/design-2.25b62284c18f3ebacc6e.jpg",
+    "static/media/features-2.jpg": "/Migweb/static/media/features-2.163b5830aa6ca6ab8fb2.jpg",
+    "static/media/remodeling-2.jpg": "/Migweb/static/media/remodeling-2.9202c1f88d32ab8f16ff.jpg",
+    "static/media/repairs-2.jpg": "/Migweb/static/media/repairs-2.8a59e049e813b9dca5be.jpg",
+    "static/media/repairs-3.jpg": "/Migweb/static/media/repairs-3.065b7b51d919a2b418ab.jpg",
+    "static/media/features-3.jpg": "/Migweb/static/media/features-3.84344ffebac4b4c4e3a6.jpg",
+    "static/media/remodeling-1.jpg": "/Migweb/static/media/remodeling-1.f025b66d4e97d4bc897f.jpg",
+    "static/media/design-1.jpg": "/Migweb/static/media/design-1.832299276a266b27c1e6.jpg",
+    "static/media/features-1.jpg": "/Migweb/static/media/features-1.3680fde1691242e90f65.jpg",
+    "static/media/design-3.jpg": "/Migweb/static/media/design-3.eb0ee02c58f0c0fb6775.jpg",
+    "static/media/features-4.jpg": "/Migweb/static/media/features-4.70dd9c5e1f82f61b2ebe.jpg",
+    "static/media/alt-services.jpg": "/Migweb/static/media/alt-services.30bf1f905b61627bef33.jpg",
+    "static/media/logo.svg": "/Migweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Migweb/index.html",
+    "main.c4d11033.css.map": "/Migweb/static/css/main.c4d11033.css.map",
+    "main.bf4ab984.js.map": "/Migweb/static/js/main.bf4ab984.js.map",
+    "787.3e47de0d.chunk.js.map": "/Migweb/static/js/787.3e47de0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4d11033.css",
+    "static/js/main.bf4ab984.js"
+  ]
+}
