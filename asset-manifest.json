@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Migweb/static/css/main.af2840ef.css",
-    "main.js": "/Migweb/static/js/main.3973a2d9.js",
+    "main.js": "/Migweb/static/js/main.02b4a325.js",
     "static/js/787.3e47de0d.chunk.js": "/Migweb/static/js/787.3e47de0d.chunk.js",
     "static/media/construction-2.jpg": "/Migweb/static/media/construction-2.396b6f614b42a374e855.jpg",
     "static/media/hero-carousel-1.jpg": "/Migweb/static/media/hero-carousel-1.9e5032971f7ec5e4ac56.jpg",
@@ -32,11 +32,11 @@
     "static/media/logo.svg": "/Migweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Migweb/index.html",
     "main.af2840ef.css.map": "/Migweb/static/css/main.af2840ef.css.map",
-    "main.3973a2d9.js.map": "/Migweb/static/js/main.3973a2d9.js.map",
+    "main.02b4a325.js.map": "/Migweb/static/js/main.02b4a325.js.map",
     "787.3e47de0d.chunk.js.map": "/Migweb/static/js/787.3e47de0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af2840ef.css",
-    "static/js/main.3973a2d9.js"
+    "static/js/main.02b4a325.js"
   ]
 }
